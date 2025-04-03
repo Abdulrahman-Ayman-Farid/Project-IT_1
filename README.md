@@ -1,2 +1,2 @@
-# Project-IT_1
+# Kanban Board
 a Project for college's project ( Internet Technologies ) 
