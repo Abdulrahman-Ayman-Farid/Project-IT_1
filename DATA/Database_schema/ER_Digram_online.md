@@ -1,4 +1,4 @@
-### Kanban Board System Flowchart
+### Database schema
 
 
-[Kanban Board System Flowchart Online](https://app.eraser.io/workspace/yerO69fa8hYDpO0Rh0WE?origin=edit)
+[Database schema Online](https://app.eraser.io/workspace/f732QB6fibdJucZhMWVT?origin=edit)
